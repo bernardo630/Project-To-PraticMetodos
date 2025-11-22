@@ -1,0 +1,14 @@
+C:\Users\Benny Aragão\Desktop\ToPraticMetodos\obj\Debug\net9.0\ToPraticMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benny Aragão\Desktop\ToPraticMetodos\obj\Debug\net9.0\ToPraticMetodos.AssemblyInfoInputs.cache
+C:\Users\Benny Aragão\Desktop\ToPraticMetodos\obj\Debug\net9.0\ToPraticMetodos.AssemblyInfo.cs
+C:\Users\Benny Aragão\Desktop\ToPraticMetodos\obj\Debug\net9.0\ToPraticMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Benny Aragão\Desktop\ToPraticMetodos\bin\Debug\net9.0\ToPraticMetodos.exe
+C:\Users\Benny Aragão\Desktop\ToPraticMetodos\bin\Debug\net9.0\ToPraticMetodos.deps.json
+C:\Users\Benny Aragão\Desktop\ToPraticMetodos\bin\Debug\net9.0\ToPraticMetodos.runtimeconfig.json
+C:\Users\Benny Aragão\Desktop\ToPraticMetodos\bin\Debug\net9.0\ToPraticMetodos.dll
+C:\Users\Benny Aragão\Desktop\ToPraticMetodos\bin\Debug\net9.0\ToPraticMetodos.pdb
+C:\Users\Benny Aragão\Desktop\ToPraticMetodos\obj\Debug\net9.0\ToPraticMetodos.dll
+C:\Users\Benny Aragão\Desktop\ToPraticMetodos\obj\Debug\net9.0\refint\ToPraticMetodos.dll
+C:\Users\Benny Aragão\Desktop\ToPraticMetodos\obj\Debug\net9.0\ToPraticMetodos.pdb
+C:\Users\Benny Aragão\Desktop\ToPraticMetodos\obj\Debug\net9.0\ToPraticMetodos.genruntimeconfig.cache
+C:\Users\Benny Aragão\Desktop\ToPraticMetodos\obj\Debug\net9.0\ref\ToPraticMetodos.dll
